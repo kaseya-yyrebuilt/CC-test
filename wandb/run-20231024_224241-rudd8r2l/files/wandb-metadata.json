@@ -1,0 +1,45 @@
+{
+    "os": "Darwin-21.6.0-x86_64-i386-64bit",
+    "python": "3.7.16",
+    "heartbeatAt": "2023-10-25T05:42:42.418026",
+    "startedAt": "2023-10-25T05:42:41.978401",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "main.py",
+    "codePathLocal": "main.py",
+    "codePath": "main.py",
+    "git": {
+        "remote": "https://github.com/kaseya-yyrebuilt/CC-test.git",
+        "commit": "9abc00a680365f59c9787a9b4919fe4269b0f2ce"
+    },
+    "email": "kaseya.xia@gmail.com",
+    "root": "/Users/xzy/CC-test",
+    "host": "Kaseays-Macbook.local",
+    "username": "xzy",
+    "executable": "/Users/xzy/opt/anaconda3/envs/cc/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 233.46913528442383,
+            "used": 21.79022216796875
+        }
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

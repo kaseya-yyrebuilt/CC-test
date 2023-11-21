@@ -17,6 +17,6 @@ for epoch in tqdm(range(1000)):
     if epoch % 50 == 0:
         print("Epoch:", epoch, "Accuracy:", acc[epoch])
         wandb.log({
-            "Epoch":epoch,
+            "Epoch": epoch,
             "Accuracy": acc[epoch]
         })

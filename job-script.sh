@@ -4,3 +4,7 @@
 #SBTACH --ntasks-per-node=4
 #SBTACH --mail-user=zxia0101@student.ubc.ca
 #SBTACH --mail-type=ALL
+
+
+
+python main.py
